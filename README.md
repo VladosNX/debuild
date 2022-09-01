@@ -9,7 +9,16 @@ To build .deb package, run this command:
 > debuild
 
 Then enter package name, version, etc.
-## Future versions
+## Changelog
 ### V1.1
-* You will can add more files in one package
-* Editor will be built-in! You will can edit bash-scripts and build it in one program!
+* Built-in editor added
+
+## Future versions
+### V2.0
+* GUI will be added!
+
+## Updating DeBuild
+If you want do update DeBuild version, run this command:
+> git pull
+
+DeBuild will be automatically updated.
